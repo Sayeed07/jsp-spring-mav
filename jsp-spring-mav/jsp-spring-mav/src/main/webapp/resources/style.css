@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: green;
+}
+
+.test{
+	background-color: red;
+	color:red;
+}
